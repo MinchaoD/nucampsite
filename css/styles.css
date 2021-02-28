@@ -14,10 +14,6 @@ header h2 {
     color: #CEC8FF;
 }
 
-/* footer {
-    background-image: linear-gradient(#CEC8FF, white);
-    padding: 20px 0;
-} */
 
 .site-footer{
     background-image: linear-gradient(#CEC8FF, white);
@@ -40,4 +36,14 @@ header h2 {
 .navbar {
     background-color: #901CAD
     
+}
+
+.tab-content{
+    border:1px solid #DDD;
+    border-top:none;
+    padding:10px;
+}
+
+a{
+    text-decoration: none;
 }
